@@ -1,0 +1,13 @@
+------geckoformboundaryaacb8245795a993c31b1159a2a3d582
+Content-Disposition: form-data; name="cacheControl"
+
+3600
+------geckoformboundaryaacb8245795a993c31b1159a2a3d582
+Content-Disposition: form-data; name=""; filename="omg.svg.png"
+Content-Type: image/png
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>alert(document.domain)</script>
+</svg>
+
+------geckoformboundaryaacb8245795a993c31b1159a2a3d582--

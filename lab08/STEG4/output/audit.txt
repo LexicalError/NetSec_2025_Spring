@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Apr 23 10:27:51 2025
+Invocation: foremost stego1.png 
+Output directory: /home/lexicalerror/CTF/NetSec/lab08/STEG4/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: stego1.png
+Start: Wed Apr 23 10:27:51 2025
+Length: 10 KB (11037 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      10 KB 	          0 	  (800 x 800)
+Finish: Wed Apr 23 10:27:51 2025
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Apr 23 10:27:51 2025
